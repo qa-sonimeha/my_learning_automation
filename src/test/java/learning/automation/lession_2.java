@@ -35,7 +35,7 @@ public class lession_2 {
 		System.out.println(ref_d);
 		System.out.println(scope_d);
 		
-		System.out.println("Testing");	
+		//
 System.out.println(response);
 	}
 
